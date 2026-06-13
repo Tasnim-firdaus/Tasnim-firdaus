@@ -1,6 +1,9 @@
 # Hi 👋 I'm Tasnim Firdaus
 
 🎓 Computer Science & Engineering Student at AIUB
+💼 Aspiring Software Engineer | AI & Machine Learning Enthusiast
+
+📍 Dhaka, Bangladesh
 
 💻 Software Development | Artificial Intelligence | Machine Learning
 
@@ -38,24 +41,38 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ## 🚀 Featured Projects
 
-### Gym Management System
+### 🏋️ Gym Management System
 
-C# • .NET • SQL Server
+Role-based desktop application developed for managing gym members, trainers, memberships, and payments through an organized management dashboard.
 
-### Shop Management System
+**Tech Stack:** C# • .NET • SQL Server
 
-PHP • MySQL • JavaScript
+---
 
-### Financial Sentiment Analysis
+### 🛒 Shop Management System
 
-Python • NLP • FinBERT • Transformers
+E-commerce and shop management platform featuring user authentication, product management, shopping cart functionality, and administrative controls.
 
-### Customer Segmentation & Early Risk Prediction
+**Tech Stack:** PHP • MySQL • JavaScript • HTML • CSS
 
-Python • Machine Learning • K-Means
+---
+
+### 📈 Financial Sentiment Analysis
+
+Machine learning and NLP project focused on analyzing financial text sentiment using transformer-based language models and domain-specific BERT architectures.
+
+**Tech Stack:** Python • NLP • FinBERT • Transformers
+
+---
+
+### 🤖 Customer Segmentation & Early Risk Prediction
+
+Data-driven machine learning solution that segments customers based on purchasing behavior and predicts potential customer risk using clustering techniques.
+
+**Tech Stack:** Python • Machine Learning • K-Means • Data Analytics
+
 
 ## 📊 GitHub Stats
 
