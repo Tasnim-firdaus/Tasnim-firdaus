@@ -19,24 +19,25 @@
 * Duke of Edinburgh Bronze Awardee
 * AI-Reinventing Program (Google Cloud)
 * Multiple Software Development & AI Projects
-
 ## 🛠 Tech Stack
 
-### Programming Languages
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
-C# • Python • Java • C++ • SQL • PHP • JavaScript
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Frameworks & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-.NET • ASP.NET • NLP (BERT) • OpenCV • Scikit-Learn • Pandas • NumPy
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
 
-### Databases
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-SQL Server • MySQL
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 
-### Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Git • GitHub • Visual Studio • Jupyter Notebook
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -58,9 +59,11 @@ Python • Machine Learning • K-Means
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasnim-firdaus\&show_icons=true)
+![Tasnim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasnim-firdaus&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnim-firdaus\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnim-firdaus&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Tasnim-firdaus&theme=tokyonight)
 
 ## 📫 Connect With Me
 
