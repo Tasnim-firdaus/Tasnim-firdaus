@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi 👋 I'm Tasnim Firdaus
 
-<!--
-**Tasnim-firdaus/Tasnim-firdaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student at AIUB
 
-Here are some ideas to get you started:
+💻 Software Development | Artificial Intelligence | Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about building real-world software solutions using C#, .NET, SQL Server, PHP, and Python.
+
+📚 Research interests:
+
+* Artificial Intelligence
+* Natural Language Processing (NLP)
+* Computer Vision
+* Machine Learning
+
+🏆 Highlights
+
+* IEEE Conference Publication Author
+* Duke of Edinburgh Bronze Awardee
+* AI-Reinventing Program (Google Cloud)
+* Multiple Software Development & AI Projects
+
+## 🛠 Tech Stack
+
+### Programming Languages
+
+C# • Python • Java • C++ • SQL • PHP • JavaScript
+
+### Frameworks & Technologies
+
+.NET • ASP.NET • NLP (BERT) • OpenCV • Scikit-Learn • Pandas • NumPy
+
+### Databases
+
+SQL Server • MySQL
+
+### Tools
+
+Git • GitHub • Visual Studio • Jupyter Notebook
+
+## 🚀 Featured Projects
+
+### Gym Management System
+
+C# • .NET • SQL Server
+
+### Shop Management System
+
+PHP • MySQL • JavaScript
+
+### Financial Sentiment Analysis
+
+Python • NLP • FinBERT • Transformers
+
+### Customer Segmentation & Early Risk Prediction
+
+Python • Machine Learning • K-Means
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasnim-firdaus\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnim-firdaus\&layout=compact)
+
+## 📫 Connect With Me
+
+📧 [tasnimferdous02@gmail.com](mailto:tasnimferdous02@gmail.com)
+
+🔗 LinkedIn:
+[www.linkedin.com/in/tasnim-firdaus](http://www.linkedin.com/in/tasnim-firdaus)
+
+🔗 GitHub:
+github.com/Tasnim-firdaus
